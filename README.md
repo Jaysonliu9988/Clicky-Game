@@ -1,6 +1,6 @@
 # Minions Clicky Game
 
-## What is Minions Clicky Game
+## How to play The Minions Clicky Game?
 
 * Test your memory with you friends from The Minions.
 * Click on each character once to win the game. But dont't click on a character twice, or it's game over.
